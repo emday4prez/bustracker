@@ -1,6 +1,5 @@
 # Real Time Bus Tracker
 
-This project uses data from MBTA to track bus stops from MIT to Harvard.
 
 ## Table of contents
 
