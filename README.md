@@ -25,7 +25,7 @@ I updated updated the styles of the map using Mapbox styles editor.
 ### Links
 To run this website you can download the folder to your computer and load it into the browser. 
 Or you can click the link below. 
-- Live Site URL: [github pages](https://emday4prez.github.io/ip-address-tracker/)
+- Live Site URL: [github pages](https://emday4prez.github.io/bustracker/)
 
 ## My process
 
