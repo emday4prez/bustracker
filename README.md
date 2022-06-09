@@ -75,4 +75,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Acknowledgments
 
-Thank you to the MIT course and Massechusettes Bay Transit Authority for the data. 
+Thank you to the MIT course and Massachusetts Bay Transit Authority for the data. 
